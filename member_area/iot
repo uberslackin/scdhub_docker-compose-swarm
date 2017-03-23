@@ -1,0 +1,5 @@
+system setup 
+ - add msqtt address of new sensor
+ - sensor graph display
+ - sensor alarm thresholds
+ - sensor notification settings
